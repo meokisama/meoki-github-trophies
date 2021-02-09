@@ -16,4 +16,4 @@ If you want to disable automatically getting the "MultipleLang" secret trophy, c
 // LINE #106
 let wantMultipleLang = true;
 ```
-If you choose to use my deployment, it would be really appreciated if you gave me a star 🙃.
+If you choose to use my deployment, it would be really appreciated if you gave me a star 🙃. 
